@@ -7,13 +7,12 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ## Live Link
-<https://appetize.io/app/ch76624rs3k7rywyaqnq6pm2fy?device=pixel7&osVersion=13.0
+https://appetize.io/app/ch76624rs3k7rywyaqnq6pm2fy?device=pixel7&osVersion=13.0
 
 ## Screenshots
-<img height="400" src="">
-<img height="400" src="">
-<img height="400" src="">
-
+<img height="400" src="https://github.com/aakashx58/ecommerce_flutter/assets/106716824/98a5b146-87e6-4d24-96db-d552f0875760">
+<img height="400" src="https://github.com/aakashx58/ecommerce_flutter/assets/106716824/9125185f-909b-4267-a4d8-f9645b161a5f">
+<img height="400" src="https://github.com/aakashx58/ecommerce_flutter/assets/106716824/f1507c10-42c1-4e44-8491-c3ffa509af9c">
 
 A few resources to get you started if this is your first Flutter project:
 
